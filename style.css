@@ -99,14 +99,3 @@ h5{
   .card-text{
     text-align: center;
   }
-  .img-thumbnail{
-    width: 200px;
-    right: 10%;
-    top: 30%;
-    display: flex;
-    position: absolute;
-    max-width: 100%;
-    height: auto;
-    background: transparent;
-    z-index: 1;
-  }
