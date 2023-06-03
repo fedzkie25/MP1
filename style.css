@@ -111,4 +111,10 @@ h5{
   }
   .shopee{
     width: 50px;
+    transition: 1s;
   }
+  .shopee:hover{
+    transform: scale(1.2);
+    z-index: 2;
+  }
+ 
