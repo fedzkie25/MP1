@@ -16,6 +16,10 @@ h5{
     text-transform: uppercase;
     font-family: 'Shrikhand';
 }
+h4{
+  font-family: 'Shrikhand';
+}
+
 .carousel-inner img{
     width: 650px;
     height: 700px;
