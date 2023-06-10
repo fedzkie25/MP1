@@ -16,8 +16,11 @@ h5{
     text-transform: uppercase;
     font-family: 'Shrikhand';
 }
-h4{
-  font-family: 'Shrikhand';
+h6{
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 10px;
+  font-weight: 800;
 }
 
 .carousel-inner img{
@@ -126,7 +129,18 @@ h4{
     display: flex;
     text-align: center;
     position: relative;
-    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
     left: 40%;
     font-family: Shrikhand;
+    background-color: #cac7c7;
+  }
+  form img{
+    display: flex;
+    position: absolute;
+    width: 450px;
+    top: 30%;
+    right: 5%;
+    z-index: 0;
   }
